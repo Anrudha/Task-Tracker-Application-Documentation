@@ -1,1 +1,1 @@
-# Task-Tracker-Application-Documentation
+The Task Tracker application provides a simple and effective way to manage tasks using basic web technologies. It covers all CRUD operations, allowing users to add, edit, delete, and display tasks efficiently. This application is an excellent starting point for learning how to build dynamic web applications using vanilla JavaScript, HTML, and CSS.
