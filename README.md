@@ -26,7 +26,7 @@ Feel free to contribute to this project by:
 * Submitting pull requests
 
 ## Author
-* Kolla Anuradha - anuradhakolla88@gmail.com
+* A Bhavana
 
 
 
